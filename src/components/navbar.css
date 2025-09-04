@@ -1,0 +1,62 @@
+/* Navbar links */
+.navbar ul li a {
+  color: #02062d;
+  text-decoration: none;
+  font-weight: 500;
+  transition: 0.3s;
+}
+
+.navbar ul li a:hover {
+  color: #dad6ee;
+  text-align : center;
+}
+
+.navbar h1{
+    font-size :var()
+}
+.navbar
+{
+    text-align: center;
+   /* background-color: rgb(214, 208, 226); */
+    background-color : rgb(173, 181, 205);
+    padding : 0;
+    margin : 0;
+    width : 100%;
+    height : 40vh;
+    box-sizing: border-box;
+    display : flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    line-height: 3.25;
+}
+.navbar p{
+    font-weight: 600;
+}
+.navbar hr{
+    color : black;
+}
+.navbar a{
+    text-decoration: none;
+    margin : 0 10px;
+}
+/* Global links (outside navbar) */
+body a {
+  color: orangered;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+body a:hover {
+  color: yellow;
+  text-decoration: underline;
+}
+
+body a:visited {
+  color: #d5cfcf;
+}
+
+body a:active {
+  color: red;
+}

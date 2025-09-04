@@ -1,0 +1,42 @@
+.education {
+  padding: 0;
+  margin : 0; 
+  background-color : rgb(173, 181, 205);
+  text-align: center;
+}
+
+.education h2
+{
+        color : brown;
+        font-weight : 800;
+}
+
+.education{
+  font-size: 2rem;
+  margin-bottom: 30px;
+  color: #1e3c72;
+}
+
+.education p{
+    /*font-weight: 600;*/
+}
+
+.edu-item {
+  margin-bottom: 20px;
+}
+
+.edu-item h3 {
+  font-size: 1.2rem;
+  margin: 5px 0;
+}
+
+.edu-item p {
+  font-size: 1rem;
+  margin: 3px 0;
+  color: #555;
+}
+
+.edu-item span {
+  font-size: 0.9rem;
+  color: gray;
+}
