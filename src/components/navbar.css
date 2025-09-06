@@ -12,13 +12,30 @@
 }
 
 .navbar h1{
-    font-size :var()
+    color : white;
+
 }
+
+.navbar p{
+  color : grey;
+}
+
+.navbar h3{
+  color : rgb(234, 226, 226);
+
+}
+
+.navbar h4{
+  color : rgb(234, 226, 226);
+
+}
+
+
 .navbar
 {
     text-align: center;
    /* background-color: rgb(214, 208, 226); */
-    background-color : rgb(173, 181, 205);
+  /*  background-color : rgb(173, 181, 205); */
     padding : 0;
     margin : 0;
     width : 100%;
@@ -31,6 +48,7 @@
     text-align: center;
     line-height: 3.25;
 }
+
 .navbar p{
     font-weight: 600;
 }
@@ -43,13 +61,13 @@
 }
 /* Global links (outside navbar) */
 body a {
-  color: orangered;
+  color: blue;
   text-decoration: none;
   font-weight: bold;
 }
 
 body a:hover {
-  color: yellow;
+  color: grey;
   text-decoration: underline;
 }
 

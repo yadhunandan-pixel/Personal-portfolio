@@ -1,6 +1,6 @@
 .projects {
   padding: 60px 20px;
-    background-color : rgb(173, 181, 205);
+  /*  background-color : rgb(173, 181, 205);*/
 }
 
 .project ol{
@@ -8,10 +8,15 @@
 }
 
 .projects h2{
-    color : brown;
+    color : palevioletred;
     font-weight : 800;
 
 }
+.projects h4{
+  color : rgb(234, 226, 226);
+  
+}
+
 
 
 .project-card {

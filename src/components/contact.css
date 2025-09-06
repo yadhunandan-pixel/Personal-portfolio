@@ -1,7 +1,7 @@
 .contact {
   padding: 20px 20px;
   /*background: #ffdd59;*/
-  background-color : rgb(173, 181, 205);
+  /*background-color : rgb(173, 181, 205);*/
   color: #070101;
   padding : 0;
   margin : 0;
@@ -19,10 +19,11 @@
 
 .contact h5{
     font-size:large;
+    color : rgb(234, 226, 226);
 }
 
 .contact h2{
-    color : brown;
+    color : palevioletred;
     font-weight : 800;
 }
 .contact a {

@@ -1,24 +1,20 @@
 .education {
   padding: 0;
   margin : 0; 
-  background-color : rgb(173, 181, 205);
+  /*background-co`lor : rgb(173, 181, 205);*/
   text-align: center;
 }
 
 .education h2
 {
-        color : brown;
-        font-weight : 800;
+        color : palevioletred;
 }
 
 .education{
-  font-size: 2rem;
+  font-size: 1.4rem;
+  font-weight: bolder;
   margin-bottom: 30px;
   color: #1e3c72;
-}
-
-.education p{
-    /*font-weight: 600;*/
 }
 
 .edu-item {
@@ -28,15 +24,16 @@
 .edu-item h3 {
   font-size: 1.2rem;
   margin: 5px 0;
+  color : rgba(253, 1, 1, 0.695);
 }
 
 .edu-item p {
   font-size: 1rem;
   margin: 3px 0;
-  color: #555;
+  color : rgb(234, 226, 226);
 }
 
 .edu-item span {
-  font-size: 0.9rem;
-  color: gray;
+  font-size: 0.5rem;
+  color : rgb(234, 226, 226);
 }

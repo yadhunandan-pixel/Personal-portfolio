@@ -12,6 +12,9 @@ import "./App.css";
 function App() {
   return (
     <>
+   <video autoPlay muted loop playInline className = "bg-video">
+    <source src = "/videos/142815-780943566_small.mp4" type = "video/mp4" />
+   </video>
       <Navbar />
       <About />
       <Education/>

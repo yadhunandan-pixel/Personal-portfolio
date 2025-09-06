@@ -1,5 +1,5 @@
 .extra h2{
-    color : brown;
+    color : palevioletred;
     font-weight : 800;
 }
 .extra {
@@ -8,7 +8,7 @@
   line-height: 1.8;
   font-size: 1.1rem;
   color: #333;
-   background-color : rgb(173, 181, 205);
+  /* background-color : rgb(173, 181, 205); */
    padding : 0;
 
    padding : 0;
@@ -30,3 +30,8 @@
     padding : 0;
     box-sizing: border-box;
     /*width : 100%;*/
+
+
+.extra h4{
+    color : rgb(234, 226, 226);
+}

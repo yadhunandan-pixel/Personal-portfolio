@@ -8,7 +8,7 @@ export default function Projects() {
         <h4>1. Decentralized privacy preserving authentication systems.</h4>
         <h4>2. IoT based gas leakage detection system.</h4>
         <h4>3. Back2U (Lost / found web application for college).</h4>
-        <h4>4. Soft city using</h4>
+        <h4>4. Soft city using Gen-AI.</h4>
     
     </section>
   );
